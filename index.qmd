@@ -12,7 +12,7 @@ about:
       href: https://github.com/JacksonChou
 ---
 
-Data Science and Analytics professional
+Data Science and Analytics professional currently working in the HR/People domain.
 
 In my downtime, I enjoy city walks and hikes with my dog. I also geek out on fantasy sports (basketball and football) have an immense backlog of PC games.
 
@@ -26,4 +26,4 @@ In my downtime, I enjoy city walks and hikes with my dog. I also geek out on fan
 
 ## Northeastern University, 2013  San Francisco State University
 
-/
+## Test

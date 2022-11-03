@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jackson Chou",
     "section": "",
-    "text": "Data Science and Analytics professional\nIn my downtime, I enjoy city walks and hikes with my dog. I also geek out on fantasy sports (basketball and football) have an immense backlog of PC games."
+    "text": "Data Science and Analytics professional currently working in the HR/People domain.\nIn my downtime, I enjoy city walks and hikes with my dog. I also geek out on fantasy sports (basketball and football) have an immense backlog of PC games."
   },
   {
     "objectID": "about.html",
@@ -46,6 +46,13 @@
     "href": "index.html#northeastern-university-2013-san-francisco-state-university",
     "title": "Jackson Chou",
     "section": "Northeastern University, 2013 San Francisco State University",
-    "text": "Northeastern University, 2013 San Francisco State University\n/"
+    "text": "Northeastern University, 2013 San Francisco State University"
+  },
+  {
+    "objectID": "index.html#test",
+    "href": "index.html#test",
+    "title": "Jackson Chou",
+    "section": "Test",
+    "text": "Test"
   }
 ]
