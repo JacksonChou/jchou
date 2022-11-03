@@ -1,4 +1,23 @@
 ---
-title: "Resume"
-editor: visual
+title: "Jackson Chou"
+format: html
+project-type: website
 ---
+
+## Experience
+
+**New Relic**
+
+| *Manager, People Analytics*
+
+**Logitech**
+
+*Senior Analyst, Market Analytics\
+*
+
+## Education
+
+Northeastern University\
+*Master of Science in Operations Research*
+
+San Francisco State University
