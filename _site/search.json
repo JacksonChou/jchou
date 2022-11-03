@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jackson Chou",
     "section": "",
-    "text": "--\nExperience\n--\nEducation"
+    "text": "Data Science and Analytics professional\nIn my downtime, I enjoy city walks and hikes with my dog. I also geek out on fantasy sports (basketball and football) have an immense backlog of PC games."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Jackson Chou",
+    "section": "",
+    "text": "Experience\nEducation\n/"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jackson Chou",
+    "section": "Experience",
+    "text": "Experience\n-----------------------------------------------"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jackson Chou",
+    "section": "Education",
+    "text": "Education\n------------------------------------------------"
+  },
+  {
+    "objectID": "index.html#experience-1",
+    "href": "index.html#experience-1",
+    "title": "Jackson Chou",
+    "section": "Experience",
+    "text": "Experience\n-----------------------------------------------"
+  },
+  {
+    "objectID": "index.html#northeastern-university-2013-san-francisco-state-university",
+    "href": "index.html#northeastern-university-2013-san-francisco-state-university",
+    "title": "Jackson Chou",
+    "section": "Northeastern University, 2013 San Francisco State University",
+    "text": "Northeastern University, 2013 San Francisco State University\n/"
   }
 ]
