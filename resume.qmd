@@ -4,11 +4,13 @@ format: html
 project-type: website
 ---
 
+Download resume here.
+
 ## Experience
 
 **New Relic**
 
-| *Manager, People Analytics*
+*Manager, People Analytics*
 
 **Logitech**
 
