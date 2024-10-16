@@ -1,16 +1,26 @@
 ---
 title: "Jackson Chou"
-format: html
+format:
+  html:
+    toc: true
+  pdf:
+    author: Jackson Chou
+    pdf-engine: weasyprint
+    
+css: cv.css
+
 project-type: website
 ---
 
 Download resume here.
 
+::: {.print-only .contact-block}
+jacksonchou.is\@gmail.com
+:::
+
 ## Experience
 
-**New Relic**
-
-*Manager, People Analytics*
+**New Relic** <br> *Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
 
 **Logitech**
 
