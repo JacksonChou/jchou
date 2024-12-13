@@ -4,15 +4,13 @@ format:
   html:
     toc: true
   pdf:
-    author: Jackson Chou
-    pdf-engine: weasyprint
+      author: Jackson Chou
+      pdf-engine: pdflatex
     
 css: cv.css
 
 project-type: website
 ---
-
-Download resume here.
 
 ::: {.print-only .contact-block}
 jacksonchou.is\@gmail.com
@@ -22,9 +20,7 @@ jacksonchou.is\@gmail.com
 
 **New Relic** <br> *Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
 
-**Logitech**
-
-*Senior Analyst, Market Analytics\
+**Logitech** <br> *Senior Analyst, Market Analytics* [*Aug 2014 --- Jan 2018*]{.cvdate}
 *
 
 ## Education
