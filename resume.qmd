@@ -4,7 +4,7 @@ format:
   html:
     toc: true
   pdf:
-      author: Jackson Chou
+      #author: Jackson Chou
       pdf-engine: pdflatex
     
 css: cv.css
@@ -16,17 +16,30 @@ project-type: website
 jacksonchou.is\@gmail.com
 :::
 
-## Experience
+## EXPERIENCE
 
-**New Relic** <br> *Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
+**New Relic**\
+*Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
+
+- 
+
+*Senior Data Analyst, People Analytics* [*Jan 2018 --- Mar 2021*]{.cvdate}
 
 **Logitech** <br> *Senior Analyst, Market Analytics* [*Aug 2014 --- Jan 2018*]{.cvdate}
-*
 
-## Education
+- Analyze and drive key insights from multiple datasets on worldwide market dynamics, competitive landscape and trends to senior management, business groups, and cross-functional partners
 
-Northeastern University\
+
+## EDUCATION
+
+**Northeastern University**\
 *Master of Science in Operations Research*
 
-San Francisco State University\
+**San Francisco State University**\
 *Bachelor of Science, Decision Sciences, Corporate Finance, Information Systems* (minor)
+
+## SKILLS
+
+-**Software**:
+-**Languages**:
+
