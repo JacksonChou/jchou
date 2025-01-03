@@ -5,7 +5,7 @@ website:
   title: "Jackson Chou"
   navbar:
     search: true
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: resume.qmd
