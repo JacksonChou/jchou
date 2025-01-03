@@ -3,32 +3,42 @@ title: "Jackson Chou"
 format:
   html:
     toc: true
-  pdf:
+  #pdf:
       #author: Jackson Chou
-      pdf-engine: pdflatex
+      #pdf-engine: pdflatex
     
 css: cv.css
 
 project-type: website
 ---
 
-::: {.print-only .contact-block}
-jacksonchou.is\@gmail.com
-:::
-
 ## EXPERIENCE
 
 **New Relic**\
 *Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
 
-- 
+-   Managed and mentor analysts
+
+*Lead Data Analyst, People Analytics* [*Apr 2021 --- Jun 2021*]{.cvdate}
 
 *Senior Data Analyst, People Analytics* [*Jan 2018 --- Mar 2021*]{.cvdate}
 
-**Logitech** <br> *Senior Analyst, Market Analytics* [*Aug 2014 --- Jan 2018*]{.cvdate}
+-   Lead the implementation of a People Analytics platform to scale self-service model
 
-- Analyze and drive key insights from multiple datasets on worldwide market dynamics, competitive landscape and trends to senior management, business groups, and cross-functional partners
+-   Automated data pipelines from Workday and built out data visualizations to improve operations efficiency
 
+-   Develop enablement content and training to build up data literacy skills within the People team
+
+**Logitech**\
+*Senior Analyst, Market Analytics* [*Aug 2014 --- Jan 2018*]{.cvdate}
+
+-   Analyze and drive key insights from multiple datasets on worldwide market dynamics, competitive landscape and trends to senior management, business groups, and cross-functional partners
+
+-   Develop data visualizations (Tableau) and analytical tools to improve decision making, track new product introductions and performance
+
+-   Create in-depth research analysis to support business group's strategic planning and goals
+
+-   Provide analytical support during business reviews, product reviews, quarterly earnings and investor relation events
 
 ## EDUCATION
 
@@ -40,6 +50,5 @@ jacksonchou.is\@gmail.com
 
 ## SKILLS
 
--**Software**:
--**Languages**:
-
+-   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, Visier, eqtble, AWS
+-   **Languages** : R, SQL, $LaTeX$
