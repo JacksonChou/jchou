@@ -92,3 +92,5 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
     color: #36a7e9;
   }
 }
+
+.page-footer { display: block !important; visibility: visible !important; }
