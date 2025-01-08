@@ -1,6 +1,6 @@
 ---
 title: "Jackson Chou"
-description: "People Analytics"
+image: profile.jpg
 about:
   template: trestles
   links:
