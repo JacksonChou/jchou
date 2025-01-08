@@ -13,9 +13,9 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/jacksonchou/
       
-page-footer:
-  border: true
-  left: "&#169; 2025 Jackson Chou"
+  page-footer:
+    left: "&#169; 2025 Jackson Chou"
+    right: Made with ❤️ and [Quarto](https://quarto.org/)
 
 format:
   html:

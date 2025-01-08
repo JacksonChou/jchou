@@ -21,9 +21,13 @@ project-type: website
 
 *Lead Data Analyst, People Analytics* [*Apr 2021 --- Jun 2021*]{.cvdate}
 
+- Cross 
+
 *Senior Data Analyst, People Analytics* [*Jan 2018 --- Mar 2021*]{.cvdate}
 
 -   Lead the implementation of a People Analytics platform to scale self-service model
+
+- Develop full scale reporting 
 
 -   Automated data pipelines from Workday and built out data visualizations to improve operations efficiency
 
