@@ -17,21 +17,28 @@ project-type: website
 **New Relic**\
 *Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
 
--   Managed and mentor analysts
+-   Developed and expanded the People Analytics tech stack by incorporating AWS and purpose-built applications, improving efficiency and functionality
+
+-   Established data governance across the analytics platform, while managing the usage and engagement of dashboards and custom applications
+
+-  Partner with cross-functional stakeholders (HRBP, DEI, TA) to develop talent strategies and new programs, ensuring success metrics are defined and aligned to business objectives
+
+-   Led the growth of the analytics team, including hiring, onboarding and directly managing a data analyst
+
 
 *Lead Data Analyst, People Analytics* [*Apr 2021 --- Jun 2021*]{.cvdate}
 
-- Cross 
+-   Continuous enablement and embed analytics best practices across People team
 
 *Senior Data Analyst, People Analytics* [*Jan 2018 --- Mar 2021*]{.cvdate}
 
--   Lead the implementation of a People Analytics platform to scale self-service model
+-   Led the implementation of a People Analytics platform (Visier) to scale self-service model
 
-- Develop full scale reporting 
+-   Develop full scale reporting on the employee lifecycle and manage quarterly business reviews, comp committee and ad-hoc analyses to highlight workforce trends
 
 -   Automated data pipelines from Workday and built out data visualizations to improve operations efficiency
 
--   Develop enablement content and training to build up data literacy skills within the People team
+-   Develop enablement content and training curriculum to build up data literacy skills within the People team
 
 **Logitech**\
 *Senior Analyst, Market Analytics* [*Aug 2014 --- Jan 2018*]{.cvdate}
@@ -55,4 +62,4 @@ project-type: website
 ## SKILLS
 
 -   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, Visier, eqtble, AWS
--   **Languages** : R, SQL, $LaTeX$
+-   **Languages** : R (tidyverse), SQL, $LaTeX$
