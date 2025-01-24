@@ -1,2 +1,6 @@
-[[plugins]]
-package = "@quarto/netlify-plugin-quarto"
+[build]
+  publish = "_site"
+  command = """
+    npm install -g quarto # Installs Quarto globally using npm
+    quarto render
+  """
