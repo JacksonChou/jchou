@@ -15,9 +15,9 @@ project-type: website
 ## EXPERIENCE
 
 **New Relic**\
-*Manager, People Analytics* [*Jun 2021 --- Present*]{.cvdate}
+*Manager, People Analytics* [*Apr 2021 --- Present*]{.cvdate}
 
--   Developed and expanded the People Analytics tech stack by incorporating AWS and purpose-built applications, improving efficiency and functionality
+-   Develop and execute long-term strategy and roadmap for the People Analytics tech stack and its organizational adoption
 
 -   Established data governance across the analytics platform, while managing the usage and engagement of dashboards and custom applications
 
@@ -25,10 +25,6 @@ project-type: website
 
 -   Led the growth of the analytics team, including hiring, onboarding and directly managing a data analyst
 
-
-*Lead Data Analyst, People Analytics* [*Apr 2021 --- Jun 2021*]{.cvdate}
-
--   Continuous enablement and embed analytics best practices across People team
 
 *Senior Data Analyst, People Analytics* [*Jan 2018 --- Mar 2021*]{.cvdate}
 
