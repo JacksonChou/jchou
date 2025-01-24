@@ -1,0 +1,14 @@
+{
+  "hash": "8a7d75c2848366d8b6be5197513a4f5d",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\nabout:\n  template: jolla\n  image: profile.jpg\n  links:\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/jacksonchou/\n    - icon: github\n      text: Github\n      href: https://github.com/JacksonChou\n---\n\n\nAnalytics professional\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
