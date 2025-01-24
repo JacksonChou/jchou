@@ -1,5 +1,5 @@
 ---
-title: "Jackson Chou"
+title: "About"
 image: profile.jpg
 about:
   template: trestles
@@ -12,6 +12,6 @@ about:
       href: https://github.com/JacksonChou
 ---
 
-I am a data science and analytics professional currently working in the HR/People domain. My passion lies in enabling decision-makers with analytics products that are simple and easy to use. Currently I lead the People Analytics team at New Relic where I focus on democratizing people data and develop analytics best practices and data literacy within the People team.
+I am a data science and analytics professional currently working in the HR/People domain. My passion lies in enabling decision-makers with analytics products that are simple and easy to use. Currently I lead the People Analytics team at New Relic where I'm focus on democratizing people data to inform strategic decision-making by developing analytics best practices and fostering data literacy across the organization.
 
 In my downtime, I enjoy city walks and hikes with my family and our Australian cattle dog, Red (he's 16!). I also geek out on sports analytics (fantasy basketball and football) and have an immense backlog of PC games.
