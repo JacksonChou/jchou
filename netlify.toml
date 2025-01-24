@@ -1,7 +1,2 @@
 [build]
-  publish = "_site" # Or "docs", adjust as needed
-  command = "quarto render"
-
-[build.environment]
-  NODE_VERSION = "18" # Or a suitable Node.js version
-  QUARTO_VERSION = "latest" # or pin to a specific version like "1.3.3"
+  publish = "_site"
