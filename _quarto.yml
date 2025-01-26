@@ -4,6 +4,7 @@ project:
 website:
   title: "Jackson Chou"
   navbar:
+    pinned: true
     search: true
     right:
       - href: index.qmd
@@ -22,5 +23,6 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    pagetitle: "Jackson Chou - {{< meta title >}}"
+    smooth-scroll: true
 
-editor: visual
