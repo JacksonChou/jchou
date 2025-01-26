@@ -1,5 +1,4 @@
 ---
-pagetitle: "Jackson Chou - About"
 title: "About"
 image: profile.jpg
 about:

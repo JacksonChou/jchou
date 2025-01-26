@@ -23,6 +23,6 @@ format:
     theme: flatly
     css: styles.css
     toc: true
-    pagetitle: "Jackson Chou - {{< meta title >}}"
+    pagetitle: "{{< meta title >}}"
     smooth-scroll: true
 

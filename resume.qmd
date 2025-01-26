@@ -21,10 +21,9 @@ project-type: website
 
 -   Established data governance across the analytics platform, while managing the usage and engagement of dashboards and custom applications
 
--  Partner with cross-functional stakeholders (HRBP, DEI, TA) to develop talent strategies and new programs, ensuring success metrics are defined and aligned to business objectives
+-   Partner with cross-functional stakeholders (HRBP, DEI, TA) to develop talent strategies and new programs, ensuring success metrics are defined and aligned to business objectives
 
 -   Led the growth of the analytics team, including hiring, onboarding and directly managing a data analyst
-
 
 *Senior Data Analyst, People Analytics* [*Jan 2018 --- Mar 2021*]{.cvdate}
 
