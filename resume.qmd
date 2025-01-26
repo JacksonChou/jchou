@@ -1,5 +1,5 @@
 ---
-pagetitle: "Jackson Chou - About"
+pagetitle: "Jackson Chou - Resume"
 title: "Jackson Chou"
 format:
   html:
