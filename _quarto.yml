@@ -26,3 +26,5 @@ format:
     pagetitle: "{{< meta title >}}"
     smooth-scroll: true
 
+execute:
+  freeze: auto
