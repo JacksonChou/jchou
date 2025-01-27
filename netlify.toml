@@ -1,2 +1,6 @@
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
+
+[build]
+command = "quarto build"
+publish = "_site" 
