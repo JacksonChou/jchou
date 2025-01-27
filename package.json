@@ -1,5 +1,5 @@
 {
-  "name": "your-project-name",
+  "name": "jchou",
   "dependencies": {
     "@quarto/netlify-plugin-quarto": "^0.0.5"
   },
