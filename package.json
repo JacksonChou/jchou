@@ -1,5 +1,9 @@
 {
+  "name": "jchou",
   "dependencies": {
-    "@quarto/netlify-plugin-quarto": "^0.0.5"
+    "@quarto/netlify-plugin-quarto": "^0.0.5" // Or latest version
+  },
+  "engines": {
+    "node": "18" // Or your preferred Node.js version
   }
 }
