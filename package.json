@@ -1,27 +1,5 @@
 {
-  "name": "jchou",
   "dependencies": {
-    "@quarto/netlify-plugin-quarto": "^0.0.5",
-    "quarto": "^1.2.189"
-  },
-  "engines": {
-    "node": "18.x"
-  },
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JacksonChou/jchou.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JacksonChou/jchou/issues"
-  },
-  "homepage": "https://github.com/JacksonChou/jchou#readme",
-  "description": ""
+    "@quarto/netlify-plugin-quarto": "^0.0.5"
+  }
 }
