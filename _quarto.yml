@@ -3,6 +3,12 @@ project:
 
 website:
   title: "Jackson Chou"
+  site-url: https://jacksonchou.com
+  repo-url: https://github.com/JacksonChou/jchou
+  repo-actions:
+    - source
+    - issue
+    
   navbar:
     pinned: true
     search: true
@@ -13,6 +19,8 @@ website:
         text: Resume
       - icon: linkedin
         href: https://www.linkedin.com/in/jacksonchou/
+      - icon: github
+        href: https://www.github.com/jacksonchou/jchou
       
   page-footer:
     left: "&#169; 2025 Jackson Chou"
