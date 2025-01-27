@@ -50,10 +50,12 @@ project-type: website
 ## EDUCATION
 
 **Northeastern University**\
-*Master of Science in Operations Research*
+*Master of Science in Operations Research*[*May 2013*]{.cvdate}
 
 **San Francisco State University**\
-*Bachelor of Science, Decision Sciences, Corporate Finance, Information Systems* (minor)
+*Bachelor of Science in Business Administration*[*Jan 2010*]{.cvdate}\
+Concentration: Decision Sciences, Corporate Finance\
+Minor: Information Systems
 
 ## SKILLS
 
