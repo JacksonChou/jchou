@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: About
       - href: resume.qmd
-        text: Resume
+        text: Experience
       - icon: linkedin
         href: https://www.linkedin.com/in/jacksonchou/
       - icon: github
