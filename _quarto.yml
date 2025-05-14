@@ -15,7 +15,7 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: resume.qmd
+      - href: experience.qmd
         text: Experience
       - icon: linkedin
         href: https://www.linkedin.com/in/jacksonchou/
