@@ -87,4 +87,4 @@ Minor: Information Systems
 ## SKILLS
 
 -   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, Visier, eqtble, AWS
--   **Languages** : R (tidyverse), SQL, $LaTeX$
+-   **Languages** : R, Python, SQL, $LaTeX$
