@@ -12,8 +12,8 @@ about:
       href: https://github.com/JacksonChou
 ---
 
-I am a data science and analytics professional currently working in the HR/People domain. My passion lies in enabling decision-makers with analytics products that are simple and easy to use.
+I am a data science professional dedicated to making analytics products simple, intuitive, and impactful.
 
-Currently I lead the People Analytics team at New Relic, where I'm focused on democratizing people data, driving strategic decision-making by establishing analytics best practices and building data literacy across the organization.
+Currently, I lead the People Analytics team at New Relic. My work is centered on democratizing people data and driving strategic decisions by establishing analytics best practices and scaling data literacy across the organization.
 
-In my downtime, I enjoy city walks and hikes with my family and our Australian Cattle Dog, Red (he's 16!). I also geek out on sports analytics (fantasy basketball and football) and have an immense backlog of PC games.
+In my downtime, I enjoy city walks and hikes with my family and our Australian Cattle Dog, Red (he's 17!). I also geek out on sports analytics (fantasy basketball and football) and have an immense backlog of PC games.
