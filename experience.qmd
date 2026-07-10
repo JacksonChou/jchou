@@ -80,7 +80,7 @@ are reactive to shifts in retail landscape
 
 ## SKILLS
 
--   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, Visier, eqtble, AWS
+-   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, One Model, Visier, eqtble, AWS
 -   **Languages** : R, Python, SQL, $LaTeX$
 
 ## EDUCATION
