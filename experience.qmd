@@ -18,9 +18,12 @@ project-type: website
 **New Relic**\
 *Manager, People Analytics* [April 2021 --- Present]{.cvdate}
 
--   Develop and execute long-term strategy and roadmap for the People Analytics tech stack and its organizational adoption
+-   Develop and execute long-term strategy and roadmap for the People Analytics tech stack,
+prioritizing AI-readiness, scalability, and organizational adoption
 
--   Established data governance across the analytics platform, while managing the usage and engagement of dashboards and custom applications
+-   Architecting a semantic data layer within our analytics platform to standardize workforce
+metrics, serving as the foundation for LLM-powered AI assistants that deliver actionable
+insights and drive predictive workforce modeling
 
 -   Partner with cross-functional stakeholders (HRBP, DEI, TA) to develop talent strategies and new programs, ensuring success metrics are defined and aligned to business objectives
 
@@ -28,7 +31,9 @@ project-type: website
 
 *Senior Data Analyst, People Analytics* [January 2018 --- March 2021]{.cvdate}
 
--   Led the implementation of a People Analytics platform (Visier) to scale self-service model
+-   Owned and led the end-to-end delivery of the People Analytics platform (Visier), architecting
+seamless HCM integrations to create a unified data ecosystem that powers self-service insights
+and advanced workforce planning
 
 -   Develop full scale reporting on the employee lifecycle and manage quarterly business reviews, comp committee and ad-hoc analyses to highlight workforce trends
 
@@ -43,9 +48,8 @@ project-type: website
 
 -   Develop data visualizations (Tableau) and analytical tools to improve decision making, track new product introductions and performance
 
--   Create in-depth research analysis to support business group's strategic planning and goals
-
--   Provide analytical support during business reviews, product reviews, quarterly earnings and investor relation events
+-   Supported strategic planning, QBRs, new product introductions, and quarterly earnings
+through in-depth research and analytical support
 
 **Levi Strauss & Co.**\
 *Analyst, Applied Analytics* [July 2013 --- May 2014]{.cvdate}
@@ -74,6 +78,11 @@ are reactive to shifts in retail landscape
 
 -   Presented the optimization model to senior managers and audiences with non-technical backgrounds
 
+## SKILLS
+
+-   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, Visier, eqtble, AWS
+-   **Languages** : R, Python, SQL, $LaTeX$
+
 ## EDUCATION
 
 **Northeastern University**\
@@ -84,7 +93,4 @@ are reactive to shifts in retail landscape
 Concentration: Decision Sciences, Corporate Finance\
 Minor: Information Systems
 
-## SKILLS
 
--   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, Visier, eqtble, AWS
--   **Languages** : R, Python, SQL, $LaTeX$
