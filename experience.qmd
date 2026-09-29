@@ -80,9 +80,22 @@ are reactive to shifts in retail landscape
 
 ## SKILLS
 
--   **Software** : Quarto, Posit Workbench, Tableau, Looker Studio, One Model, Visier, eqtble, AWS
--   **Languages** : R, Python, SQL, $LaTeX$
+::: {.grid}
 
+::: {.g-col-12 .g-col-md-6}
+#### Technical & BI Stack
+* **Languages:** R, Python, SQL
+* **BI & Visualization:** Tableau, Looker Studio
+* **Data Science & Cloud:** Posit Workbench, Quarto, AWS
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### Enterprise HR & Strategy
+* **HR Data Platforms:** Visier, One Model, Workday
+* **Architecture:** Semantic Data Layer & AI Readiness
+:::
+
+:::
 ## EDUCATION
 
 **Northeastern University**\
