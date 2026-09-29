@@ -72,6 +72,12 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
     text-transform: uppercase;
     /* color: green; */
   }
+  
+  h4 {
+  color: #0f172a !important; /* Matches main heading black */
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
 
   p {
     font-size: small;

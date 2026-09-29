@@ -90,8 +90,8 @@ are reactive to shifts in retail landscape
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-#### Enterprise HR & Strategy
-* **HR Data Platforms:** Visier, One Model, Workday
+#### People Analytics & Systems
+* **Core Platforms:** One Model, Visier, Workday, Greenhouse
 * **Architecture:** Semantic Data Layer & AI Readiness
 :::
 
