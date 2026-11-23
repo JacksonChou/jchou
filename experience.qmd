@@ -83,16 +83,17 @@ are reactive to shifts in retail landscape
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-#### Technical & BI Stack
+#### Data & BI Stack
 * **Languages:** R, Python, SQL
-* **BI & Visualization:** Tableau, Looker Studio
-* **Data Science & Cloud:** Posit Workbench, Quarto, AWS
+* **AI & Automation:** Gemini / Claude APIs, MCP, Agent Workflows
+* **Data Visualization & Publishing:** Tableau, Looker Studio, Quarto
+* **Cloud & Tooling:** AWS, Posit Workbench, Git
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 #### People Analytics & Systems
-* **Core Platforms:** One Model, Visier, Workday, Greenhouse, Culture Amp
-* **Architecture:** Semantic Data Layer & AI Readiness
+* **Analytics Platforms:** One Model, Visier
+* **HRIS & Talent Systems:** Workday, Greenhouse, Culture Amp
 :::
 
 :::
