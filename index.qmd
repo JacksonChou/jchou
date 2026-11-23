@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "Jackson Chou"
+subtitle: "People Analytics Leader & Data Strategist"
+pagetitle: "People Analytics Leader"
+description: "People Analytics Leader at New Relic specializing in analytics product strategy, semantic data layers, and workforce intelligence."
+open-graph:
+  title: "Jackson Chou | People Analytics Leader"
 image: profile.jpg
 about:
   template: trestles
@@ -17,3 +22,5 @@ I am a data science professional dedicated to making analytics products simple, 
 Currently, I lead the People Analytics team at New Relic. My work is centered on democratizing people data and driving strategic decisions by establishing analytics best practices and scaling data literacy across the organization.
 
 In my downtime, I enjoy city walks and hikes with my family and our Australian Cattle Dog, Red (he's 17!). I also geek out on sports analytics (fantasy basketball and football) and have an immense backlog of PC games.
+
+Always open to connecting with fellow analytics leaders and practitioners, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jacksonchou/).
